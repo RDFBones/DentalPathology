@@ -1,0 +1,3 @@
+[submodule "RDFBones-O"]
+	path = RDFBones-O
+	url = git@github.com:RDFBones/RDFBones-O.git
