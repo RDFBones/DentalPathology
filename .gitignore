@@ -1,0 +1,7 @@
+## Exclude output files
+
+results/*
+
+## Exclude temporary files
+
+*~
